@@ -1,5 +1,5 @@
 backend:
-    name: github
+    name: git-gateway
     branch: master
     repo: LuigiClaudio/ga-starter #replace with your username/repo
 
